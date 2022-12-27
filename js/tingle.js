@@ -17,7 +17,7 @@ authorBtn.addEventListener('click', () => {
         <hr>
         <div class="row">
         <div class="col text-center">
-            <p><strong class="name">Алмагуль Акажанова</strong> – <i class="status"><i></i></i></p><i class="status"><i>
+            <p><strong class="name">Ақажанова Алмагүл Аманжолқызы</strong> – <i class="status"><i></i></i></p><i class="status"><i>
         </i></i></div><i class="status"><i>
         </i></i></div><i class="status"><i>
         </i></i></div><i class="status"><i>
